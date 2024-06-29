@@ -21,5 +21,12 @@ def fibonacci(n):
     else:
         a,b=b,a+b
         l.append(b)
-    return l
+    return 1
+
+Edgar Guijarro
     
+import math 
+
+radio = 5
+áreas = Match.pi * (radio ** 2)
+print(f"El área del círculo con radio {radio} es { area:.2f}")
